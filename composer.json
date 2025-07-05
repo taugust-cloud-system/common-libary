@@ -1,0 +1,18 @@
+{
+    "name": "taugust/common-libary",
+    "description": "Eine Sammlung von nützlichen Klassen für meine Projekte.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Taugust\\CommonLibary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tjaugust01",
+            "email": "tomaugust2001@proton.me"
+        }
+    ],
+    "require": {}
+}
